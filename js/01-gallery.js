@@ -38,4 +38,4 @@ function onCardsGallery(event) {
     };
   })
 
-}
+};
